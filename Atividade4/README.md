@@ -6,29 +6,28 @@ Elaborar um controlador do estado de LEDs por meio de botão. Esta atividade ser
 
 <h4>Material Necessário:</h4>
 
-ESP32S3
-4 LED
-2 botões
-Outros componentes para implementar os drivers
-Conta no Wokwi (https://wokwi.com/)
+* ESP32S3
+* 4 LED
+* 2 botões
+* Outros componentes para implementar os drivers
+* Conta no Wokwi (https://wokwi.com/)
 
 <h4>Passos para a Atividade:</h4>
 
-Elaborar o diagrama em bloco de um contador binário de 4 bits com dois botões de controle com os seguinte componentes:
-ESP32S3;
-4 LED;
-2 Buttons;
-Componentes para os circuitos de driver.
-
-Elaborar o esquemático para o contador.
+**Elaborar o diagrama em bloco de um contador binário de 4 bits com dois botões de controle com os seguinte componentes:**
+* ESP32S3;
+* 4 LED;
+* 2 Buttons;
+* Componentes para os circuitos de driver.
+* Elaborar o esquemático para o contador.
 
 <h4>Desenvolvimento do Código:</h4>
 
 Desenvolva um programa utilizando o ESP-IDF para implementar um contador binário de 4 bits. O valor atual do contador deve ser exibido utilizando 4 LEDs. Além disso, o sistema deve utilizar 2 botões conectados a entradas digitais, com as seguintes funcionalidades:
 
-Botão A: a cada acionamento, deve incrementar o valor do contador conforme a unidade de incremento atual (padrão: +1).
+**Botão A:** a cada acionamento, deve incrementar o valor do contador conforme a unidade de incremento atual (padrão: +1).
 
-Botão B: alterna a unidade de incremento entre +1 e +2 a cada acionamento.
+**Botão B:** alterna a unidade de incremento entre +1 e +2 a cada acionamento.
 
 
 <h2>Obs:</h2>
