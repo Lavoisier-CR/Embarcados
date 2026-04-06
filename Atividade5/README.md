@@ -15,13 +15,11 @@ Realizar o tratamento do efeito bounce por software.
 
 <h4>Passos para a Atividade:</h4>
 
-* Elaborar o diagrama em bloco
+1. Elaborar o diagrama em bloco;
+1. Elaborar o esquemático;
+1. Desenvolvimento do Código:
 
-* Elaborar o esquemático.
-
-* Desenvolvimento do Código:
-
-<h5>Desenvolva um programa utilizando o ESP-IDF para implementar um controlador de acionamento de um LED:</h5>
+> <h5>Desenvolva um programa utilizando o ESP-IDF para implementar um controlador de acionamento de um LED:</h5>
 
 * **Leitura Digital:** O programa deve ler o estado do botão.
 * **Toggle Simples:** Ao pressionar o botão, o LED deve mudar de estado (se estava aceso, apaga; se estava apagado, acende).
