@@ -23,6 +23,6 @@ Realizar o tratamento do efeito bounce por software.
 
 <h5>Desenvolva um programa utilizando o ESP-IDF para implementar um controlador de acionamento de um LED:</h5>
 
-* Leitura Digital: O programa deve ler o estado do botão.
-* Toggle Simples: Ao pressionar o botão, o LED deve mudar de estado (se estava aceso, apaga; se estava apagado, acende).
-* Temporizador de Segurança: Se o LED for ligado e o usuário esquecer de desligar, o sistema deve apagá-lo automaticamente após 10 segundos.
+* **Leitura Digital:** O programa deve ler o estado do botão.
+* **Toggle Simples:** Ao pressionar o botão, o LED deve mudar de estado (se estava aceso, apaga; se estava apagado, acende).
+* **Temporizador de Segurança:** Se o LED for ligado e o usuário esquecer de desligar, o sistema deve apagá-lo automaticamente após **10 segundos**.
