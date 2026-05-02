@@ -1,12 +1,16 @@
-<img src="https://www.ifpb.edu.br/static/media/logo.20d47050.png" width="150px">
+<div align="center">
+   <img src="https://www.ifpb.edu.br/imagens/logotipos/campina-grande/@@images/image-1200-119374a47048af0ba09197e64453797c.png" width="100px">
+</div>
 
 ### Engenharia de Computação
 ### Sistemas Embarcados
 #### Professor: Alexandre Sales Vasconcelos
 >**Aluno:** &emsp;Lavoisier Chaves Ramos
 
-### Atividade 08
-#### Monitoramento Analógico e Controle de PWM
+<div align="center">
+   <h3> Atividade 08 </h3>
+   <h4>Monitoramento Analógico e Controle de PWM</h4>
+</div>
 
 #### Objetivo:
 Compreender o funcionamento do periférico ADC no ESP32 para converter tensões analógicas (0V a 3.3V) em valores digitais (0 a 4095). Implementar o escalonamento desses dados para controlar o brilho de um LED via PWM (LEDC) e utilizar um botão para "congelar" a leitura.
