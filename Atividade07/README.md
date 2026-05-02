@@ -1,4 +1,4 @@
-<img src="https://www.ifpb.edu.br/static/media/logo.20d47050.png" width="150px">
+<p><img src="https://www.ifpb.edu.br/imagens/logotipos/campina-grande/@@images/image-1200-119374a47048af0ba09197e64453797c.png" width="100px" style="display:block;margin:auto;"></p>
 
 # Engenharia de Computação
 ## Sistemas Embarcados
