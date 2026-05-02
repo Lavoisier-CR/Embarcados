@@ -1,5 +1,6 @@
 <img src="https://www.ifpb.edu.br/static/media/logo.20d47050.png" width="150px">
 
+# Engenharia de Computação
 ## Sistemas Embarcados
 ### Professor: Alexandre Sales Vasconcelos
 >**Equipe:** &emsp;Lavoisier Chaves Ramos\
