@@ -1,4 +1,4 @@
-<img src="https://www.ifpb.edu.br/static/media/logo.20d47050.png" width="150px" align="center" alt="logo IFPB">
+<img src="https://www.ifpb.edu.br/static/media/logo.20d47050.png" width="150px">
 
 ## Sistemas Embarcados
 ### Professor: Alexandre Sales Vasconcelos
