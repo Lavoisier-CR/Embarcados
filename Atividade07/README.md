@@ -2,8 +2,9 @@
   <img src="https://www.ifpb.edu.br/imagens/logotipos/campina-grande/@@images/image-1200-119374a47048af0ba09197e64453797c.png" width="100px">
 </div>
 
+### Engenhaia de Computação  
 ### Sistemas Embarcados  
-#### Professor: Alexandre Sales Vasconcelos
+#### Professor: Alexandre Sales Vasconcelos  
 >**Equipe:** &emsp;Lavoisier Chaves Ramos\
 >&emsp;&emsp;&emsp;&emsp; Vinícius Cavalcante Barbosa
 
