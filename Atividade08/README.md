@@ -27,6 +27,7 @@ Compreender o funcionamento do periférico ADC no ESP32 para converter tensões 
 2. Parâmetros de configuração dos periféricos:
 
 &emsp;&emsp; Apresente os valores de configuração para os principais componentes/periféricos utilizados no desenvolvimento do dispositivo (Utilize os materiais de aula para escolher os parâmetros).
+
 &emsp;&emsp; Apresente também a equação utilizada para converter o valor bruto do ADC em tensão.
 
 3. Desenvolvimento do firmware:
