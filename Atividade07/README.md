@@ -1,12 +1,17 @@
-<center><img src="https://www.ifpb.edu.br/imagens/logotipos/campina-grande/@@images/image-1200-119374a47048af0ba09197e64453797c.png" width="100px"></center>
+<div align="center">
+  <img src="https://www.ifpb.edu.br/imagens/logotipos/campina-grande/@@images/image-1200-119374a47048af0ba09197e64453797c.png" width="100px">
+</div>
 
 ### Sistemas Embarcados  
 #### Professor: Alexandre Sales Vasconcelos
 >**Equipe:** &emsp;Lavoisier Chaves Ramos\
 >&emsp;&emsp;&emsp;&emsp; Vinícius Cavalcante Barbosa
 
-### <center>Atividade 07</center>
-#### <center>Comunicação Serial UART com Teste de Loopback</center>
+<div align="center">
+    <h3> Atividade 07</h3>
+    <h4> Comunicação Serial UART com Teste de Loopback</h4>
+</div>
+
 #### Objetivo:
 Compreender o funcionamento da interface UART (Universal Asynchronous Receiver-Transmitter) no ESP32. Implementar o envio e recebimento de dados de forma assíncrona, utilizando um jumper físico para criar um canal de "auto-eco" (Loopback).
 #### Material Necessário:
