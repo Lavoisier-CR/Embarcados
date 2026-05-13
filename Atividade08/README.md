@@ -17,9 +17,9 @@ Compreender o funcionamento do periférico ADC no ESP32 para converter tensões 
 #### Material Necessário:
 
 * 1 ESP32 (DevKit)
-* 1 Potenciometro (xx Ω)
-* 1 LED + 1 Resistor de xx Ω
-* 1 Button + 1 Resistor  xx Ω
+* 1 Potenciometro (10 kΩ)
+* 1 LED + 1 Resistor de 220 Ω
+* 1 Button + 1 Resistor  10 kΩ
 * Protoboard e cabos
 
 #### Passos para a Atividade:
@@ -39,3 +39,11 @@ Compreender o funcionamento do periférico ADC no ESP32 para converter tensões 
 * Desenvolva um programa utilizando o ESP-IDF que utilize a ADC para realizar as seguintes tarefas:
 
 #### `Requisitos:`
+
+* `ADC:` Configure o ADC para a leitura de uma ddp máxima de 3,3V com os valores apresentados no item 2.
+  
+* `Modo de Operação:` O brilho do LED deve ser proporcional à posição do potenciômetro (utilize o driver ledc para gerar PWM).
+
+* `Função "Hold" (Botão):` A cada acionamento do botão, o sistema deve entrar em modo HOLD. Nesse estado, o brilho do LED fica travado no último valor lido e o sistema para de atualizar a leitura do potenciômetro. Um novo acionamento do botão, o sistema volta a ler o potenciômetro em tempo real. 
+
+* `Monitoramento:` Imprima no terminal a cada 500ms: o valor bruto do ADC, a tensão calculada (em mV) e o estado atual (LIVE ou HOLD).
