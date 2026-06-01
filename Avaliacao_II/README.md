@@ -7,7 +7,7 @@ Projeto desenvolvido utilizando **ESP32-S3**, **ESP-IDF** e **FreeRTOS** para co
 * Leitura de potenciômetro via ADC
 * Filtro de média móvel com 8 amostras
 * Controle da frequência do LED entre 1 Hz e 10 Hz
-* Dois modos de operação:
+* Ao acionar o Botão, deve-se acionar os dois modos de operação:
 
   * Modo 1: Duty Cycle de 50%
   * Modo 2: Duty Cycle de 20%
